@@ -1,3 +1,4 @@
+import "tailwindcss/tailwind.css";
 import Head from "next/head";
 import { TextLink } from "../components/atoms/TextLink";
 import { Button } from "../components/atoms/Button";
